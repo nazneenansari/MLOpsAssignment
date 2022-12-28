@@ -1,0 +1,12 @@
+Prediction ratio for the date Mon Oct 24 05:33:39 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Mon Oct 24 08:03:59 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Mon Oct 24 08:04:12 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Wed Nov  2 06:50:28 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Wed Nov  2 07:00:21 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Wed Nov  2 07:14:05 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Wed Nov  2 08:00:23 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Tue Dec 27 18:25:46 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Tue Dec 27 18:25:54 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Tue Dec 27 19:00:14 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Tue Dec 27 20:00:13 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Tue Dec 27 20:12:05 2022 for Ones % 59.08 and Zeroes % 40.92
